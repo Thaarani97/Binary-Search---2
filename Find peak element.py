@@ -1,4 +1,4 @@
-#TC - O(n)
+#TC - O(logn)
 #SC - O(1)
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
